@@ -13,4 +13,4 @@ I have uploaded all of the tasks for today.
 - Game elements planning sheet
 
 5/5/26
--I finished the Evaluation Criteria
+- I finished the Evaluation Criteria
