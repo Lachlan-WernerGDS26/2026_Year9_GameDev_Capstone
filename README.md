@@ -11,3 +11,6 @@ I have uploaded all of the tasks for today.
 - Onion Planing sheet
 - Four corners planning sheet
 - Game elements planning sheet
+
+5/5/26
+-I finished the Evaluation Criteria
