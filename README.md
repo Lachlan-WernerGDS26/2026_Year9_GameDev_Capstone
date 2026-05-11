@@ -14,3 +14,6 @@ I have uploaded all of the tasks for today.
 
 5/5/26
 - I finished the Evaluation Criteria
+
+11/5/26
+- I started work on my game and added WASD and artwork/images
