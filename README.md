@@ -17,3 +17,7 @@ I have uploaded all of the tasks for today.
 
 11/5/26
 - I started work on my game and added WASD and artwork/images
+
+12/5/26
+- I added all of the artwork I need
+- Added my baseballs for the player to collect
