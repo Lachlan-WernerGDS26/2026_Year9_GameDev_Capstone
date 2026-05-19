@@ -21,3 +21,6 @@ I have uploaded all of the tasks for today.
 12/5/26
 - I added all of the artwork I need
 - Added my baseballs for the player to collect
+
+18/5/26
+- I added a counter/scoreboard to my game
