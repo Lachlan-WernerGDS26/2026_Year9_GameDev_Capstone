@@ -29,3 +29,6 @@ I have uploaded all of the tasks for today
 - I made my player die on collision with a bat
 - I made my restart button space
 - Added some touch ups to make my game playable
+
+26/5/26
+- I added a scoreboard
