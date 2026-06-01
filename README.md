@@ -32,3 +32,7 @@ I have uploaded all of the tasks for today
 
 26/5/26
 - I added a scoreboard
+
+1/6/26
+- I added more baseballs and bats
+- I had other students give feedback on my game
