@@ -36,3 +36,6 @@ I have uploaded all of the tasks for today
 1/6/26
 - I added more baseballs and bats
 - I had other students give feedback on my game
+
+2/6/26
+- I started on my website for the game
